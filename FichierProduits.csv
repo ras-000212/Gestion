@@ -1,0 +1,541 @@
+Famille;Désignation Article;Code Article;PrixUnitaire
+Crémeux;Vanille;CR2001;4
+Crémeux;Chocolat;CR2002;4
+Crémeux;Caramel;CR2003;4
+Crémeux;Praliné;CR2004;4
+Crémeux;Tiramisu;CR2005;4
+Crémeux;Panna Cotta;CR2006;4
+Crémeux;Crème Caramel;CR2007;4
+Crémeux;Lait - Fraise;CR2008;4,75
+Crémeux;Lait - Cerise;CR2009;4,75
+Crémeux;Noisette;CR2010;4,75
+Crémeux;Amande;CR2011;4,75
+Crémeux;Lait - Menthe;CR2012;4,75
+Crémeux;Pomme façon Tatin;CR2013;4,75
+Crémeux;Citron - meringue;CR2014;4,75
+Crémeux;Fraise façon crumble;CR2015;4,75
+Fruités;Cerise;FR1201;4,9
+Fruités;Fraise;FR1202;4,9
+Fruités;Pomme;FR1203;4,9
+Fruités;Citron;FR1204;4,9
+Fruités;Mangue;FR1205;4,9
+Fruités;Pamplemousse;FR1206;4,9
+Fruités;Orange;FR1207;4,9
+Fruités;Orange sanguine;FR1208;4,9
+Fruités;Mandarine;FR1209;4,9
+Fruités;Poire;FR1210;4,9
+Fruités;Pomme - Poire;FR1211;4,9
+Fruités;Pruneaux d'Agen;FR1212;4,9
+Fruités;Banane;FR1213;4,9
+Fruités;Coco;FR1214;4,9
+Fruités;Menthe;FR1215;4,9
+Fruités;Fraise des bois;FR1216;4,9
+Fruités;Anis;FR1217;4,9
+Fruités;Carotte;FR1218;4,9
+Fruités;Asperge;FR1219;4,9
+Fruités;Menthe Forte;FR1220;4,9
+Fruités;Raisin;FR1221;4,9
+Tri-goût;Lait - Fraise – Cerise;TR0012;5
+Tri-goût;Lait - Pomme - Cerise;TR0013;5
+Tri-goût;Lait - Citron - Cerise;TR0014;5
+Tri-goût;Lait - Mangue - Cerise;TR0015;5
+Tri-goût;Lait - Pamplemousse - Cerise;TR0016;5
+Tri-goût;Lait - Orange - Cerise;TR0017;5
+Tri-goût;Lait - Orange sanguine - Cerise;TR0018;5
+Tri-goût;Lait - Mandarine - Cerise;TR0019;5
+Tri-goût;Lait - Poire - Cerise;TR0020;5
+Tri-goût;Lait - Pruneaux - Cerise;TR0021;5
+Tri-goût;Lait - Banane - Cerise;TR0022;5
+Tri-goût;Lait - Coco - Cerise;TR0023;5
+Tri-goût;Lait - Menthe - Cerise;TR0024;5
+Tri-goût;Lait - Fraise des bois - Cerise;TR0025;5
+Tri-goût;Lait - Anis - Cerise;TR0026;5
+Tri-goût;Lait - Carotte - Cerise;TR0027;5
+Tri-goût;Lait - Menthe Forte - Cerise;TR0028;5
+Tri-goût;Lait - Raisin - Cerise;TR0029;5
+Tri-goût;Lait - Pomme - Fraise;TR0030;5
+Tri-goût;Lait - Citron - Fraise;TR0031;5
+Tri-goût;Lait - Mangue - Fraise;TR0032;5
+Tri-goût;Lait - Pamplemousse - Fraise;TR0033;5
+Tri-goût;Lait - Orange - Fraise;TR0034;5
+Tri-goût;Lait - Orange sanguine - Fraise;TR0035;5
+Tri-goût;Lait - Mandarine - Fraise;TR0036;5
+Tri-goût;Lait - Poire - Fraise;TR0037;5
+Tri-goût;Lait - Pruneaux - Fraise;TR0038;5
+Tri-goût;Lait - Banane - Fraise;TR0039;5
+Tri-goût;Lait - Coco - Fraise;TR0040;5
+Tri-goût;Lait - Menthe - Fraise;TR0041;5
+Tri-goût;Lait - Fraise des bois - Fraise;TR0042;5
+Tri-goût;Lait - Anis - Fraise;TR0043;5
+Tri-goût;Lait - Carotte - Fraise;TR0044;5
+Tri-goût;Lait - Menthe Forte - Fraise;TR0045;5
+Tri-goût;Lait - Raisin - Fraise;TR0046;5
+Tri-goût;Lait - Mangue - Citron;TR0047;5
+Tri-goût;Lait - Pamplemousse - Citron;TR0048;5
+Tri-goût;Lait - Orange - Citron;TR0049;5
+Tri-goût;Lait - Orange sanguine - Citron;TR0050;5
+Tri-goût;Lait - Mandarine - Citron;TR0051;5
+Tri-goût;Lait - Poire - Citron;TR0052;5
+Tri-goût;Lait - Pruneaux - Citron;TR0053;5
+Tri-goût;Lait - Banane - Citron;TR0054;5
+Tri-goût;Lait - Coco - Citron;TR0055;5
+Tri-goût;Lait - Menthe - Citron;TR0056;5
+Tri-goût;Lait - Fraise des bois - Citron;TR0057;5
+Tri-goût;Lait - Anis - Citron;TR0058;5
+Tri-goût;Lait - Carotte - Citron;TR0059;5
+Tri-goût;Lait - Menthe Forte - Citron;TR0060;5
+Tri-goût;Lait - Raisin - Citron;TR0061;5
+Tri-goût;Lait - Citron - Pomme;TR0062;5
+Tri-goût;Lait - Mangue - Pomme;TR0063;5
+Tri-goût;Lait - Pamplemousse - Pomme;TR0064;5
+Tri-goût;Lait - Orange - Pomme;TR0065;5
+Tri-goût;Lait - Orange sanguine - Pomme;TR0066;5
+Tri-goût;Lait - Mandarine - Pomme;TR0067;5
+Tri-goût;Lait - Poire - Pomme;TR0068;5
+Tri-goût;Lait - Pruneaux - Pomme;TR0069;5
+Tri-goût;Lait - Banane - Pomme;TR0070;5
+Tri-goût;Lait - Coco - Pomme;TR0071;5
+Tri-goût;Lait - Menthe - Pomme;TR0072;5
+Tri-goût;Lait - Fraise des bois - Pomme;TR0073;5
+Tri-goût;Lait - Anis - Pomme;TR0074;5
+Tri-goût;Lait - Carotte - Pomme;TR0075;5
+Tri-goût;Lait - Menthe Forte - Pomme;TR0076;5
+Tri-goût;Lait - Raisin - Pomme;TR0077;5
+Tri-goût;Lait - Pamplemousse - Mangue;TR0078;5
+Tri-goût;Lait - Orange - Mangue;TR0079;5
+Tri-goût;Lait - Orange sanguine - Mangue;TR0080;5
+Tri-goût;Lait - Mandarine - Mangue;TR0081;5
+Tri-goût;Lait - Poire - Mangue;TR0082;5
+Tri-goût;Lait - Pruneaux - Mangue;TR0083;5
+Tri-goût;Lait - Banane - Mangue;TR0084;5
+Tri-goût;Lait - Coco - Mangue;TR0085;5
+Tri-goût;Lait - Menthe - Mangue;TR0086;5
+Tri-goût;Lait - Fraise des bois - Mangue;TR0087;5
+Tri-goût;Lait - Anis - Mangue;TR0088;5
+Tri-goût;Lait - Carotte - Mangue;TR0089;5
+Tri-goût;Lait - Menthe Forte - Mangue;TR0090;5
+Tri-goût;Lait - Raisin - Mangue;TR0091;5
+Tri-goût;Lait - Orange sanguine - Orange;TR0092;5
+Tri-goût;Lait - Mandarine - Orange;TR0093;5
+Tri-goût;Lait - Poire - Orange;TR0094;5
+Tri-goût;Lait - Pruneaux - Orange;TR0095;5
+Tri-goût;Lait - Banane - Orange;TR0096;5
+Tri-goût;Lait - Coco - Orange;TR0097;5
+Tri-goût;Lait - Menthe - Orange;TR0098;5
+Tri-goût;Lait - Fraise des bois - Orange;TR0099;5
+Tri-goût;Lait - Anis - Orange;TR0100;5
+Tri-goût;Lait - Carotte - Orange;TR0101;5
+Tri-goût;Lait - Menthe Forte - Orange;TR0102;5
+Tri-goût;Lait - Raisin - Orange;TR0103;5
+Tri-goût;Lait - Orange - Pamplemousse;TR0104;5
+Tri-goût;Lait - Orange sanguine - Pamplemousse;TR0105;5
+Tri-goût;Lait - Mandarine - Pamplemousse;TR0106;5
+Tri-goût;Lait - Poire - Pamplemousse;TR0107;5
+Tri-goût;Lait - Pruneaux - Pamplemousse;TR0108;5
+Tri-goût;Lait - Banane - Pamplemousse;TR0109;5
+Tri-goût;Lait - Coco - Pamplemousse;TR0110;5
+Tri-goût;Lait - Menthe - Pamplemousse;TR0111;5
+Tri-goût;Lait - Fraise des bois - Pamplemousse;TR0112;5
+Tri-goût;Lait - Anis - Pamplemousse;TR0113;5
+Tri-goût;Lait - Carotte - Pamplemousse;TR0114;5
+Tri-goût;Lait - Menthe Forte - Pamplemousse;TR0115;5
+Tri-goût;Lait - Raisin - Pamplemousse;TR0116;5
+Tri-goût;Lait - Mandarine - Orange sanguine;TR0117;5
+Tri-goût;Lait - Poire - Orange sanguine;TR0118;5
+Tri-goût;Lait - Pruneaux - Orange sanguine;TR0119;5
+Tri-goût;Lait - Banane - Orange sanguine;TR0120;5
+Tri-goût;Lait - Coco - Orange sanguine;TR0121;5
+Tri-goût;Lait - Menthe - Orange sanguine;TR0122;5
+Tri-goût;Lait - Fraise des bois - Orange sanguine;TR0123;5
+Tri-goût;Lait - Anis - Orange sanguine;TR0124;5
+Tri-goût;Lait - Carotte - Orange sanguine;TR0125;5
+Tri-goût;Lait - Menthe Forte - Orange sanguine;TR0126;5
+Tri-goût;Lait - Raisin - Orange sanguine;TR0127;5
+Tri-goût;Lait - Pruneaux - Poire;TR0128;5
+Tri-goût;Lait - Banane - Poire;TR0129;5
+Tri-goût;Lait - Coco - Poire;TR0130;5
+Tri-goût;Lait - Menthe - Poire;TR0131;5
+Tri-goût;Lait - Fraise des bois - Poire;TR0132;5
+Tri-goût;Lait - Anis - Poire;TR0133;5
+Tri-goût;Lait - Carotte - Poire;TR0134;5
+Tri-goût;Lait - Menthe Forte - Poire;TR0135;5
+Tri-goût;Lait - Raisin - Poire;TR0136;5
+Tri-goût;Lait - Poire - Mandarine;TR0137;5
+Tri-goût;Lait - Pruneaux - Mandarine;TR0138;5
+Tri-goût;Lait - Banane - Mandarine;TR0139;5
+Tri-goût;Lait - Coco - Mandarine;TR0140;5
+Tri-goût;Lait - Menthe - Mandarine;TR0141;5
+Tri-goût;Lait - Fraise des bois - Mandarine;TR0142;5
+Tri-goût;Lait - Anis - Mandarine;TR0143;5
+Tri-goût;Lait - Carotte - Mandarine;TR0144;5
+Tri-goût;Lait - Menthe Forte - Mandarine;TR0145;5
+Tri-goût;Lait - Raisin - Mandarine;TR0146;5
+Tri-goût;Lait - Banane - Pruneaux d'Agen;TR0147;5
+Tri-goût;Lait - Coco - Pruneaux d'Agen;TR0148;5
+Tri-goût;Lait - Menthe - Pruneaux d'Agen;TR0149;5
+Tri-goût;Lait - Fraise des bois - Pruneaux d'Agen;TR0150;5
+Tri-goût;Lait - Anis - Pruneaux d'Agen;TR0151;5
+Tri-goût;Lait - Carotte - Pruneaux d'Agen;TR0152;5
+Tri-goût;Lait - Menthe Forte - Pruneaux d'Agen;TR0153;5
+Tri-goût;Lait - Raisin - Pruneaux d'Agen;TR0154;5
+Tri-goût;Lait - Menthe - Coco;TR0155;5
+Tri-goût;Lait - Fraise des bois - Coco;TR0156;5
+Tri-goût;Lait - Anis - Coco;TR0157;5
+Tri-goût;Lait - Carotte - Coco;TR0158;5
+Tri-goût;Lait - Menthe Forte - Coco;TR0159;5
+Tri-goût;Lait - Raisin - Coco;TR0160;5
+Tri-goût;Lait - Coco - Banane;TR0161;5
+Tri-goût;Lait - Menthe - Banane;TR0162;5
+Tri-goût;Lait - Fraise des bois - Banane;TR0163;5
+Tri-goût;Lait - Anis - Banane;TR0164;5
+Tri-goût;Lait - Carotte - Banane;TR0165;5
+Tri-goût;Lait - Menthe Forte - Banane;TR0166;5
+Tri-goût;Lait - Raisin - Banane;TR0167;5
+Tri-goût;Lait - Carotte - Anis;TR0168;5
+Tri-goût;Lait - Menthe Forte - Anis;TR0169;5
+Tri-goût;Lait - Raisin - Anis;TR0170;5
+Tri-goût;Lait - Anis - Fraise des bois;TR0171;5
+Tri-goût;Lait - Carotte - Fraise des bois;TR0172;5
+Tri-goût;Lait - Menthe Forte - Fraise des bois;TR0173;5
+Tri-goût;Lait - Raisin - Fraise des bois;TR0174;5
+Tri-goût;Lait - Fraise des bois - Menthe;TR0175;5
+Tri-goût;Lait - Anis - Menthe;TR0176;5
+Tri-goût;Lait - Carotte - Menthe;TR0177;5
+Tri-goût;Lait - Menthe Forte - Menthe;TR0178;5
+Tri-goût;Lait - Raisin - Menthe;TR0179;5
+Tri-goût;Cola - Fraise - Cerise;TR0180;5
+Tri-goût;Cola - Pomme - Cerise;TR0181;5
+Tri-goût;Cola - Citron - Cerise;TR0182;5
+Tri-goût;Cola - Mangue - Cerise;TR0183;5
+Tri-goût;Cola - Pamplemousse - Cerise;TR0184;5
+Tri-goût;Cola - Orange - Cerise;TR0185;5
+Tri-goût;Cola - Orange sanguine - Cerise;TR0186;5
+Tri-goût;Cola - Mandarine - Cerise;TR0187;5
+Tri-goût;Cola - Poire - Cerise;TR0188;5
+Tri-goût;Cola - Pruneaux - Cerise;TR0189;5
+Tri-goût;Cola - Banane - Cerise;TR0190;5
+Tri-goût;Cola - Coco - Cerise;TR0191;5
+Tri-goût;Cola - Menthe - Cerise;TR0192;5
+Tri-goût;Cola - Fraise des bois - Cerise;TR0193;5
+Tri-goût;Cola - Anis - Cerise;TR0194;5
+Tri-goût;Cola - Carotte - Cerise;TR0195;5
+Tri-goût;Cola - Menthe Forte - Cerise;TR0196;5
+Tri-goût;Cola - Raisin - Cerise;TR0197;5
+Tri-goût;Cola - Pomme - Fraise;TR0198;5
+Tri-goût;Cola - Citron - Fraise;TR0199;5
+Tri-goût;Cola - Mangue - Fraise;TR0200;5
+Tri-goût;Cola - Pamplemousse - Fraise;TR0201;5
+Tri-goût;Cola - Orange - Fraise;TR0202;5
+Tri-goût;Cola - Orange sanguine - Fraise;TR0203;5
+Tri-goût;Cola - Mandarine - Fraise;TR0204;5
+Tri-goût;Cola - Poire - Fraise;TR0205;5
+Tri-goût;Cola - Pruneaux - Fraise;TR0206;5
+Tri-goût;Cola - Banane - Fraise;TR0207;5
+Tri-goût;Cola - Coco - Fraise;TR0208;5
+Tri-goût;Cola - Menthe - Fraise;TR0209;5
+Tri-goût;Cola - Fraise des bois - Fraise;TR0210;5
+Tri-goût;Cola - Anis - Fraise;TR0211;5
+Tri-goût;Cola - Carotte - Fraise;TR0212;5
+Tri-goût;Cola - Menthe Forte - Fraise;TR0213;5
+Tri-goût;Cola - Raisin - Fraise;TR0214;5
+Tri-goût;Cola - Mangue - Citron;TR0215;5
+Tri-goût;Cola - Pamplemousse - Citron;TR0216;5
+Tri-goût;Cola - Orange - Citron;TR0217;5
+Tri-goût;Cola - Orange sanguine - Citron;TR0218;5
+Tri-goût;Cola - Mandarine - Citron;TR0219;5
+Tri-goût;Cola - Poire - Citron;TR0220;5
+Tri-goût;Cola - Pruneaux - Citron;TR0221;5
+Tri-goût;Cola - Banane - Citron;TR0222;5
+Tri-goût;Cola - Coco - Citron;TR0223;5
+Tri-goût;Cola - Menthe - Citron;TR0224;5
+Tri-goût;Cola - Fraise des bois - Citron;TR0225;5
+Tri-goût;Cola - Anis - Citron;TR0226;5
+Tri-goût;Cola - Carotte - Citron;TR0227;5
+Tri-goût;Cola - Menthe Forte - Citron;TR0228;5
+Tri-goût;Cola - Raisin - Citron;TR0229;5
+Tri-goût;Cola - Citron - Pomme;TR0230;5
+Tri-goût;Cola - Mangue - Pomme;TR0231;5
+Tri-goût;Cola - Pamplemousse - Pomme;TR0232;5
+Tri-goût;Cola - Orange - Pomme;TR0233;5
+Tri-goût;Cola - Orange sanguine - Pomme;TR0234;5
+Tri-goût;Cola - Mandarine - Pomme;TR0235;5
+Tri-goût;Cola - Poire - Pomme;TR0236;5
+Tri-goût;Cola - Pruneaux - Pomme;TR0237;5
+Tri-goût;Cola - Banane - Pomme;TR0238;5
+Tri-goût;Cola - Coco - Pomme;TR0239;5
+Tri-goût;Cola - Menthe - Pomme;TR0240;5
+Tri-goût;Cola - Fraise des bois - Pomme;TR0241;5
+Tri-goût;Cola - Anis - Pomme;TR0242;5
+Tri-goût;Cola - Carotte - Pomme;TR0243;5
+Tri-goût;Cola - Menthe Forte - Pomme;TR0244;5
+Tri-goût;Cola - Raisin - Pomme;TR0245;5
+Tri-goût;Cola - Pamplemousse - Mangue;TR0246;5
+Tri-goût;Cola - Orange - Mangue;TR0247;5
+Tri-goût;Cola - Orange sanguine - Mangue;TR0248;5
+Tri-goût;Cola - Mandarine - Mangue;TR0249;5
+Tri-goût;Cola - Poire - Mangue;TR0250;5
+Tri-goût;Cola - Pruneaux - Mangue;TR0251;5
+Tri-goût;Cola - Banane - Mangue;TR0252;5
+Tri-goût;Cola - Coco - Mangue;TR0253;5
+Tri-goût;Cola - Menthe - Mangue;TR0254;5
+Tri-goût;Cola - Fraise des bois - Mangue;TR0255;5
+Tri-goût;Cola - Anis - Mangue;TR0256;5
+Tri-goût;Cola - Carotte - Mangue;TR0257;5
+Tri-goût;Cola - Menthe Forte - Mangue;TR0258;5
+Tri-goût;Cola - Raisin - Mangue;TR0259;5
+Tri-goût;Cola - Orange sanguine - Orange;TR0260;5
+Tri-goût;Cola - Mandarine - Orange;TR0261;5
+Tri-goût;Cola - Poire - Orange;TR0262;5
+Tri-goût;Cola - Pruneaux - Orange;TR0263;5
+Tri-goût;Cola - Banane - Orange;TR0264;5
+Tri-goût;Cola - Coco - Orange;TR0265;5
+Tri-goût;Cola - Menthe - Orange;TR0266;5
+Tri-goût;Cola - Fraise des bois - Orange;TR0267;5
+Tri-goût;Cola - Anis - Orange;TR0268;5
+Tri-goût;Cola - Carotte - Orange;TR0269;5
+Tri-goût;Cola - Menthe Forte - Orange;TR0270;5
+Tri-goût;Cola - Raisin - Orange;TR0271;5
+Tri-goût;Cola - Orange - Pamplemousse;TR0272;5
+Tri-goût;Cola - Orange sanguine - Pamplemousse;TR0273;5
+Tri-goût;Cola - Mandarine - Pamplemousse;TR0274;5
+Tri-goût;Cola - Poire - Pamplemousse;TR0275;5
+Tri-goût;Cola - Pruneaux - Pamplemousse;TR0276;5
+Tri-goût;Cola - Banane - Pamplemousse;TR0277;5
+Tri-goût;Cola - Coco - Pamplemousse;TR0278;5
+Tri-goût;Cola - Menthe - Pamplemousse;TR0279;5
+Tri-goût;Cola - Fraise des bois - Pamplemousse;TR0280;5
+Tri-goût;Cola - Anis - Pamplemousse;TR0281;5
+Tri-goût;Cola - Carotte - Pamplemousse;TR0282;5
+Tri-goût;Cola - Menthe Forte - Pamplemousse;TR0283;5
+Tri-goût;Cola - Raisin - Pamplemousse;TR0284;5
+Tri-goût;Cola - Mandarine - Orange sanguine;TR0285;5
+Tri-goût;Cola - Poire - Orange sanguine;TR0286;5
+Tri-goût;Cola - Pruneaux - Orange sanguine;TR0287;5
+Tri-goût;Cola - Banane - Orange sanguine;TR0288;5
+Tri-goût;Cola - Coco - Orange sanguine;TR0289;5
+Tri-goût;Cola - Menthe - Orange sanguine;TR0290;5
+Tri-goût;Cola - Fraise des bois - Orange sanguine;TR0291;5
+Tri-goût;Cola - Anis - Orange sanguine;TR0292;5
+Tri-goût;Cola - Carotte - Orange sanguine;TR0293;5
+Tri-goût;Cola - Menthe Forte - Orange sanguine;TR0294;5
+Tri-goût;Cola - Raisin - Orange sanguine;TR0295;5
+Tri-goût;Cola - Pruneaux - Poire;TR0296;5
+Tri-goût;Cola - Banane - Poire;TR0297;5
+Tri-goût;Cola - Coco - Poire;TR0298;5
+Tri-goût;Cola - Menthe - Poire;TR0299;5
+Tri-goût;Cola - Fraise des bois - Poire;TR0300;5
+Tri-goût;Cola - Anis - Poire;TR0301;5
+Tri-goût;Cola - Carotte - Poire;TR0302;5
+Tri-goût;Cola - Menthe Forte - Poire;TR0303;5
+Tri-goût;Cola - Raisin - Poire;TR0304;5
+Tri-goût;Cola - Poire - Mandarine;TR0305;5
+Tri-goût;Cola - Pruneaux - Mandarine;TR0306;5
+Tri-goût;Cola - Banane - Mandarine;TR0307;5
+Tri-goût;Cola - Coco - Mandarine;TR0308;5
+Tri-goût;Cola - Menthe - Mandarine;TR0309;5
+Tri-goût;Cola - Fraise des bois - Mandarine;TR0310;5
+Tri-goût;Cola - Anis - Mandarine;TR0311;5
+Tri-goût;Cola - Carotte - Mandarine;TR0312;5
+Tri-goût;Cola - Menthe Forte - Mandarine;TR0313;5
+Tri-goût;Cola - Raisin - Mandarine;TR0314;5
+Tri-goût;Cola - Banane - Pruneaux d'Agen;TR0315;5
+Tri-goût;Cola - Coco - Pruneaux d'Agen;TR0316;5
+Tri-goût;Cola - Menthe - Pruneaux d'Agen;TR0317;5
+Tri-goût;Cola - Fraise des bois - Pruneaux d'Agen;TR0318;5
+Tri-goût;Cola - Anis - Pruneaux d'Agen;TR0319;5
+Tri-goût;Cola - Carotte - Pruneaux d'Agen;TR0320;5
+Tri-goût;Cola - Menthe Forte - Pruneaux d'Agen;TR0321;5
+Tri-goût;Cola - Raisin - Pruneaux d'Agen;TR0322;5
+Tri-goût;Cola - Menthe - Coco;TR0323;5
+Tri-goût;Cola - Fraise des bois - Coco;TR0324;5
+Tri-goût;Cola - Anis - Coco;TR0325;5
+Tri-goût;Cola - Carotte - Coco;TR0326;5
+Tri-goût;Cola - Menthe Forte - Coco;TR0327;5
+Tri-goût;Cola - Raisin - Coco;TR0328;5
+Tri-goût;Cola - Coco - Banane;TR0329;5
+Tri-goût;Cola - Menthe - Banane;TR0330;5
+Tri-goût;Cola - Fraise des bois - Banane;TR0331;5
+Tri-goût;Cola - Anis - Banane;TR0332;5
+Tri-goût;Cola - Carotte - Banane;TR0333;5
+Tri-goût;Cola - Menthe Forte - Banane;TR0334;5
+Tri-goût;Cola - Raisin - Banane;TR0335;5
+Tri-goût;Cola - Carotte - Anis;TR0336;5
+Tri-goût;Cola - Menthe Forte - Anis;TR0337;5
+Tri-goût;Cola - Raisin - Anis;TR0338;5
+Tri-goût;Cola - Anis - Fraise des bois;TR0339;5
+Tri-goût;Cola - Carotte - Fraise des bois;TR0340;5
+Tri-goût;Cola - Menthe Forte - Fraise des bois;TR0341;5
+Tri-goût;Cola - Raisin - Fraise des bois;TR0342;5
+Tri-goût;Cola - Fraise des bois - Menthe;TR0343;5
+Tri-goût;Cola - Anis - Menthe;TR0344;5
+Tri-goût;Cola - Carotte - Menthe;TR0345;5
+Tri-goût;Cola - Menthe Forte - Menthe;TR0346;5
+Tri-goût;Cola - Raisin - Menthe;TR0347;5
+Tri-goût;Grenadine - Fraise - Cerise;TR0348;5
+Tri-goût;Grenadine - Pomme - Cerise;TR0349;5
+Tri-goût;Grenadine - Citron - Cerise;TR0350;5
+Tri-goût;Grenadine - Mangue - Cerise;TR0351;5
+Tri-goût;Grenadine - Pamplemousse - Cerise;TR0352;5
+Tri-goût;Grenadine - Orange - Cerise;TR0353;5
+Tri-goût;Grenadine - Orange sanguine - Cerise;TR0354;5
+Tri-goût;Grenadine - Mandarine - Cerise;TR0355;5
+Tri-goût;Grenadine - Poire - Cerise;TR0356;5
+Tri-goût;Grenadine - Pruneaux - Cerise;TR0357;5
+Tri-goût;Grenadine - Banane - Cerise;TR0358;5
+Tri-goût;Grenadine - Coco - Cerise;TR0359;5
+Tri-goût;Grenadine - Menthe - Cerise;TR0360;5
+Tri-goût;Grenadine - Fraise des bois - Cerise;TR0361;5
+Tri-goût;Grenadine - Anis - Cerise;TR0362;5
+Tri-goût;Grenadine - Carotte - Cerise;TR0363;5
+Tri-goût;Grenadine - Menthe Forte - Cerise;TR0364;5
+Tri-goût;Grenadine - Raisin - Cerise;TR0365;5
+Tri-goût;Grenadine - Pomme - Fraise;TR0366;5
+Tri-goût;Grenadine - Citron - Fraise;TR0367;5
+Tri-goût;Grenadine - Mangue - Fraise;TR0368;5
+Tri-goût;Grenadine - Pamplemousse - Fraise;TR0369;5
+Tri-goût;Grenadine - Orange - Fraise;TR0370;5
+Tri-goût;Grenadine - Orange sanguine - Fraise;TR0371;5
+Tri-goût;Grenadine - Mandarine - Fraise;TR0372;5
+Tri-goût;Grenadine - Poire - Fraise;TR0373;5
+Tri-goût;Grenadine - Pruneaux - Fraise;TR0374;5
+Tri-goût;Grenadine - Banane - Fraise;TR0375;5
+Tri-goût;Grenadine - Coco - Fraise;TR0376;5
+Tri-goût;Grenadine - Menthe - Fraise;TR0377;5
+Tri-goût;Grenadine - Fraise des bois - Fraise;TR0378;5
+Tri-goût;Grenadine - Anis - Fraise;TR0379;5
+Tri-goût;Grenadine - Carotte - Fraise;TR0380;5
+Tri-goût;Grenadine - Menthe Forte - Fraise;TR0381;5
+Tri-goût;Grenadine - Raisin - Fraise;TR0382;5
+Tri-goût;Grenadine - Mangue - Citron;TR0383;5
+Tri-goût;Grenadine - Pamplemousse - Citron;TR0384;5
+Tri-goût;Grenadine - Orange - Citron;TR0385;5
+Tri-goût;Grenadine - Orange sanguine - Citron;TR0386;5
+Tri-goût;Grenadine - Mandarine - Citron;TR0387;5
+Tri-goût;Grenadine - Poire - Citron;TR0388;5
+Tri-goût;Grenadine - Pruneaux - Citron;TR0389;5
+Tri-goût;Grenadine - Banane - Citron;TR0390;5
+Tri-goût;Grenadine - Coco - Citron;TR0391;5
+Tri-goût;Grenadine - Menthe - Citron;TR0392;5
+Tri-goût;Grenadine - Fraise des bois - Citron;TR0393;5
+Tri-goût;Grenadine - Anis - Citron;TR0394;5
+Tri-goût;Grenadine - Carotte - Citron;TR0395;5
+Tri-goût;Grenadine - Menthe Forte - Citron;TR0396;5
+Tri-goût;Grenadine - Raisin - Citron;TR0397;5
+Tri-goût;Grenadine - Citron - Pomme;TR0398;5
+Tri-goût;Grenadine - Mangue - Pomme;TR0399;5
+Tri-goût;Grenadine - Pamplemousse - Pomme;TR0400;5
+Tri-goût;Grenadine - Orange - Pomme;TR0401;5
+Tri-goût;Grenadine - Orange sanguine - Pomme;TR0402;5
+Tri-goût;Grenadine - Mandarine - Pomme;TR0403;5
+Tri-goût;Grenadine - Poire - Pomme;TR0404;5
+Tri-goût;Grenadine - Pruneaux - Pomme;TR0405;5
+Tri-goût;Grenadine - Banane - Pomme;TR0406;5
+Tri-goût;Grenadine - Coco - Pomme;TR0407;5
+Tri-goût;Grenadine - Menthe - Pomme;TR0408;5
+Tri-goût;Grenadine - Fraise des bois - Pomme;TR0409;5
+Tri-goût;Grenadine - Anis - Pomme;TR0410;5
+Tri-goût;Grenadine - Carotte - Pomme;TR0411;5
+Tri-goût;Grenadine - Menthe Forte - Pomme;TR0412;5
+Tri-goût;Grenadine - Raisin - Pomme;TR0413;5
+Tri-goût;Grenadine - Pamplemousse - Mangue;TR0414;5
+Tri-goût;Grenadine - Orange - Mangue;TR0415;5
+Tri-goût;Grenadine - Orange sanguine - Mangue;TR0416;5
+Tri-goût;Grenadine - Mandarine - Mangue;TR0417;5
+Tri-goût;Grenadine - Poire - Mangue;TR0418;5
+Tri-goût;Grenadine - Pruneaux - Mangue;TR0419;5
+Tri-goût;Grenadine - Banane - Mangue;TR0420;5
+Tri-goût;Grenadine - Coco - Mangue;TR0421;5
+Tri-goût;Grenadine - Menthe - Mangue;TR0422;5
+Tri-goût;Grenadine - Fraise des bois - Mangue;TR0423;5
+Tri-goût;Grenadine - Anis - Mangue;TR0424;5
+Tri-goût;Grenadine - Carotte - Mangue;TR0425;5
+Tri-goût;Grenadine - Menthe Forte - Mangue;TR0426;5
+Tri-goût;Grenadine - Raisin - Mangue;TR0427;5
+Tri-goût;Grenadine - Orange sanguine - Orange;TR0428;5
+Tri-goût;Grenadine - Mandarine - Orange;TR0429;5
+Tri-goût;Grenadine - Poire - Orange;TR0430;5
+Tri-goût;Grenadine - Pruneaux - Orange;TR0431;5
+Tri-goût;Grenadine - Banane - Orange;TR0432;5
+Tri-goût;Grenadine - Coco - Orange;TR0433;5
+Tri-goût;Grenadine - Menthe - Orange;TR0434;5
+Tri-goût;Grenadine - Fraise des bois - Orange;TR0435;5
+Tri-goût;Grenadine - Anis - Orange;TR0436;5
+Tri-goût;Grenadine - Carotte - Orange;TR0437;5
+Tri-goût;Grenadine - Menthe Forte - Orange;TR0438;5
+Tri-goût;Grenadine - Raisin - Orange;TR0439;5
+Tri-goût;Grenadine - Orange - Pamplemousse;TR0440;5
+Tri-goût;Grenadine - Orange sanguine - Pamplemousse;TR0441;5
+Tri-goût;Grenadine - Mandarine - Pamplemousse;TR0442;5
+Tri-goût;Grenadine - Poire - Pamplemousse;TR0443;5
+Tri-goût;Grenadine - Pruneaux - Pamplemousse;TR0444;5
+Tri-goût;Grenadine - Banane - Pamplemousse;TR0445;5
+Tri-goût;Grenadine - Coco - Pamplemousse;TR0446;5
+Tri-goût;Grenadine - Menthe - Pamplemousse;TR0447;5
+Tri-goût;Grenadine - Fraise des bois - Pamplemousse;TR0448;5
+Tri-goût;Grenadine - Anis - Pamplemousse;TR0449;5
+Tri-goût;Grenadine - Carotte - Pamplemousse;TR0450;5
+Tri-goût;Grenadine - Menthe Forte - Pamplemousse;TR0451;5
+Tri-goût;Grenadine - Raisin - Pamplemousse;TR0452;5
+Tri-goût;Grenadine - Mandarine - Orange sanguine;TR0453;5
+Tri-goût;Grenadine - Poire - Orange sanguine;TR0454;5
+Tri-goût;Grenadine - Pruneaux - Orange sanguine;TR0455;5
+Tri-goût;Grenadine - Banane - Orange sanguine;TR0456;5
+Tri-goût;Grenadine - Coco - Orange sanguine;TR0457;5
+Tri-goût;Grenadine - Menthe - Orange sanguine;TR0458;5
+Tri-goût;Grenadine - Fraise des bois - Orange sanguine;TR0459;5
+Tri-goût;Grenadine - Anis - Orange sanguine;TR0460;5
+Tri-goût;Grenadine - Carotte - Orange sanguine;TR0461;5
+Tri-goût;Grenadine - Menthe Forte - Orange sanguine;TR0462;5
+Tri-goût;Grenadine - Raisin - Orange sanguine;TR0463;5
+Tri-goût;Grenadine - Pruneaux - Poire;TR0464;5
+Tri-goût;Grenadine - Banane - Poire;TR0465;5
+Tri-goût;Grenadine - Coco - Poire;TR0466;5
+Tri-goût;Grenadine - Menthe - Poire;TR0467;5
+Tri-goût;Grenadine - Fraise des bois - Poire;TR0468;5
+Tri-goût;Grenadine - Anis - Poire;TR0469;5
+Tri-goût;Grenadine - Carotte - Poire;TR0470;5
+Tri-goût;Grenadine - Menthe Forte - Poire;TR0471;5
+Tri-goût;Grenadine - Raisin - Poire;TR0472;5
+Tri-goût;Grenadine - Poire - Mandarine;TR0473;5
+Tri-goût;Grenadine - Pruneaux - Mandarine;TR0474;5
+Tri-goût;Grenadine - Banane - Mandarine;TR0475;5
+Tri-goût;Grenadine - Coco - Mandarine;TR0476;5
+Tri-goût;Grenadine - Menthe - Mandarine;TR0477;5
+Tri-goût;Grenadine - Fraise des bois - Mandarine;TR0478;5
+Tri-goût;Grenadine - Anis - Mandarine;TR0479;5
+Tri-goût;Grenadine - Carotte - Mandarine;TR0480;5
+Tri-goût;Grenadine - Menthe Forte - Mandarine;TR0481;5
+Tri-goût;Grenadine - Raisin - Mandarine;TR0482;5
+Tri-goût;Grenadine - Banane - Pruneaux d'Agen;TR0483;5
+Tri-goût;Grenadine - Coco - Pruneaux d'Agen;TR0484;5
+Tri-goût;Grenadine - Menthe - Pruneaux d'Agen;TR0485;5
+Tri-goût;Grenadine - Fraise des bois - Pruneaux d'Agen;TR0486;5
+Tri-goût;Grenadine - Anis - Pruneaux d'Agen;TR0487;5
+Tri-goût;Grenadine - Carotte - Pruneaux d'Agen;TR0488;5
+Tri-goût;Grenadine - Menthe Forte - Pruneaux d'Agen;TR0489;5
+Tri-goût;Grenadine - Raisin - Pruneaux d'Agen;TR0490;5
+Tri-goût;Grenadine - Menthe - Coco;TR0491;5
+Tri-goût;Grenadine - Fraise des bois - Coco;TR0492;5
+Tri-goût;Grenadine - Anis - Coco;TR0493;5
+Tri-goût;Grenadine - Carotte - Coco;TR0494;5
+Tri-goût;Grenadine - Menthe Forte - Coco;TR0495;5
+Tri-goût;Grenadine - Raisin - Coco;TR0496;5
+Tri-goût;Grenadine - Coco - Banane;TR0497;5
+Tri-goût;Grenadine - Menthe - Banane;TR0498;5
+Tri-goût;Grenadine - Fraise des bois - Banane;TR0499;5
+Tri-goût;Grenadine - Anis - Banane;TR0500;5
+Tri-goût;Grenadine - Carotte - Banane;TR0501;5
+Tri-goût;Grenadine - Menthe Forte - Banane;TR0502;5
+Tri-goût;Grenadine - Raisin - Banane;TR0503;5
+Tri-goût;Grenadine - Carotte - Anis;TR0504;5
+Tri-goût;Grenadine - Menthe Forte - Anis;TR0505;5
+Tri-goût;Grenadine - Raisin - Anis;TR0506;5
+Tri-goût;Grenadine - Anis - Fraise des bois;TR0507;5
+Tri-goût;Grenadine - Carotte - Fraise des bois;TR0508;5
+Tri-goût;Grenadine - Menthe Forte - Fraise des bois;TR0509;5
+Tri-goût;Grenadine - Raisin - Fraise des bois;TR0510;5
+Tri-goût;Grenadine - Fraise des bois - Menthe;TR0511;5
+Tri-goût;Grenadine - Anis - Menthe;TR0512;5
+Tri-goût;Grenadine - Carotte - Menthe;TR0513;5
+Tri-goût;Grenadine - Menthe Forte - Menthe;TR0514;5
+Tri-goût;Grenadine - Raisin - Menthe;TR0515;5
