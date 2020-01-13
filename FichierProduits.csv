@@ -1,4 +1,4 @@
-Famille;Désignation Article;Code Article;PrixUnitaire
+Famille;Désignation Article;CodeArticle;PrixUnitaire
 Crémeux;Vanille;CR2001;4
 Crémeux;Chocolat;CR2002;4
 Crémeux;Caramel;CR2003;4
@@ -6,35 +6,35 @@ Crémeux;Praliné;CR2004;4
 Crémeux;Tiramisu;CR2005;4
 Crémeux;Panna Cotta;CR2006;4
 Crémeux;Crème Caramel;CR2007;4
-Crémeux;Lait - Fraise;CR2008;4,75
-Crémeux;Lait - Cerise;CR2009;4,75
-Crémeux;Noisette;CR2010;4,75
-Crémeux;Amande;CR2011;4,75
-Crémeux;Lait - Menthe;CR2012;4,75
-Crémeux;Pomme façon Tatin;CR2013;4,75
-Crémeux;Citron - meringue;CR2014;4,75
-Crémeux;Fraise façon crumble;CR2015;4,75
-Fruités;Cerise;FR1201;4,9
-Fruités;Fraise;FR1202;4,9
-Fruités;Pomme;FR1203;4,9
-Fruités;Citron;FR1204;4,9
-Fruités;Mangue;FR1205;4,9
-Fruités;Pamplemousse;FR1206;4,9
-Fruités;Orange;FR1207;4,9
-Fruités;Orange sanguine;FR1208;4,9
-Fruités;Mandarine;FR1209;4,9
-Fruités;Poire;FR1210;4,9
-Fruités;Pomme - Poire;FR1211;4,9
-Fruités;Pruneaux d'Agen;FR1212;4,9
-Fruités;Banane;FR1213;4,9
-Fruités;Coco;FR1214;4,9
-Fruités;Menthe;FR1215;4,9
-Fruités;Fraise des bois;FR1216;4,9
-Fruités;Anis;FR1217;4,9
-Fruités;Carotte;FR1218;4,9
-Fruités;Asperge;FR1219;4,9
-Fruités;Menthe Forte;FR1220;4,9
-Fruités;Raisin;FR1221;4,9
+Crémeux;Lait - Fraise;CR2008;4.75
+Crémeux;Lait - Cerise;CR2009;4.75
+Crémeux;Noisette;CR2010;4.75
+Crémeux;Amande;CR2011;4.75
+Crémeux;Lait - Menthe;CR2012;4.75
+Crémeux;Pomme façon Tatin;CR2013;4.75
+Crémeux;Citron - meringue;CR2014;4.75
+Crémeux;Fraise façon crumble;CR2015;4.75
+Fruités;Cerise;FR1201;4.9
+Fruités;Fraise;FR1202;4.9
+Fruités;Pomme;FR1203;4.9
+Fruités;Citron;FR1204;4.9
+Fruités;Mangue;FR1205;4.9
+Fruités;Pamplemousse;FR1206;4.9
+Fruités;Orange;FR1207;4.9
+Fruités;Orange sanguine;FR1208;4.9
+Fruités;Mandarine;FR1209;4.9
+Fruités;Poire;FR1210;4.9
+Fruités;Pomme - Poire;FR1211;4.9
+Fruités;Pruneaux d'Agen;FR1212;4.9
+Fruités;Banane;FR1213;4.9
+Fruités;Coco;FR1214;4.9
+Fruités;Menthe;FR1215;4.9
+Fruités;Fraise des bois;FR1216;4.9
+Fruités;Anis;FR1217;4.9
+Fruités;Carotte;FR1218;4.9
+Fruités;Asperge;FR1219;4.9
+Fruités;Menthe Forte;FR1220;4.9
+Fruités;Raisin;FR1221;4.9
 Tri-goût;Lait - Fraise – Cerise;TR0012;5
 Tri-goût;Lait - Pomme - Cerise;TR0013;5
 Tri-goût;Lait - Citron - Cerise;TR0014;5
